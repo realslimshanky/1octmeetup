@@ -3,4 +3,4 @@ Training Repo
 
 Contributors
 
-[Shashank Kumar](https://github.com/realslimshanky)
+[Nawal Kishor](https://github.com/kishornawal13)
