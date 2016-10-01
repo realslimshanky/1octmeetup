@@ -3,4 +3,6 @@ Training Repo
 
 Contributors
 
-[Shashank Kumar](https://github.com/realslimshanky)
+[SURAJ PANDEY](https://www.github.com/uditya)
+
+
