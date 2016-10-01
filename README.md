@@ -4,7 +4,8 @@
 ### Venue : CL-1 (LAB), D Block, NIET, Gr. Noida
 ### Timing : 12PM to 5PM
 
-Contributors
+### Contributors :
 
 [Shashank Kumar](https://github.com/realslimshanky)
+
 [Mubasshir](https://github.com/mubbi9455)
