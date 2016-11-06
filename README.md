@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Git and Github Meetup
 
 ### Slides : [sildes.com/realslimshanky](https://slides.com/realslimshanky/gitandgithub)
@@ -17,3 +16,5 @@
 [Riti Ayush](https://github.com/ayu0grt)
 
 [Prashant kumar](https://github.com/prashantcool523)
+
+[Jagdish Singh]{https://github.com/JDchauhan}
