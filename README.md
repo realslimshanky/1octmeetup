@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Git and Github Meetup
 
 ### Slides : [sildes.com/realslimshanky](https://slides.com/realslimshanky/gitandgithub)
@@ -18,3 +19,5 @@
 [Prashant kumar](https://github.com/prashantcool523)
 
 [Jagdish Singh]{https://github.com/JDchauhan}
+
+[Siddharth Bhatia](https://github.com/siddharthbht)
