@@ -12,3 +12,5 @@
 [Mubasshir](https://github.com/mubbi9455)
 
 [Nawal Kishor](https://github.com/kishornawal13)
+
+[Riti Ayush](https://github.com/ayu0grt)
