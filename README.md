@@ -17,7 +17,7 @@
 
 [Prashant kumar](https://github.com/prashantcool523)
 
-[Jagdish Singh]{https://github.com/JDchauhan}
+[Jagdish Singh](https://github.com/JDchauhan)
 
 [Siddharth Bhatia](https://github.com/siddharthbht)
 
